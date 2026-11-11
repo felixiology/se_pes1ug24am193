@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+conflicts.log
+schedule.json
